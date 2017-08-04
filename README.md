@@ -8,7 +8,7 @@ I created the back end for this project by implementing:
 
 What it looks like:
 
-![BearMaps screenshot](/demo/bearmaps.png?raw=true "BearMaps Demo")
+![BearMaps screenshot](/demo/bearmaps-demo.jpg?raw=true "BearMaps Demo")
 
 
 The rest was implemented by Alan Yao.
