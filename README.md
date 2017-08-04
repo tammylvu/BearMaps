@@ -12,4 +12,3 @@ What it looks like:
 
 
 The rest was implemented by Alan Yao.
-# BearMaps
